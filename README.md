@@ -20,3 +20,5 @@
   year={2024}
 }
 ```
+
+[LICENSE](https://github.com/mverbytska/Enhanced-Post-Processing-for-Knowledge-NeRF/blob/main/LICENSE) file
