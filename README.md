@@ -1,6 +1,6 @@
 # Enhanced Post Processing for Knowledge NeRF
 ## Referenced Repositories 
-* [nerf_pytorch](https://github.com/yenchenlin/nerf-pytorch/tree/dev?tab=readme-ov-file) – a baseline model implementation was used
+**1.** [nerf_pytorch](https://github.com/yenchenlin/nerf-pytorch/tree/dev?tab=readme-ov-file) – a baseline model implementation was used
 
 ```bibtex
 @misc{YenChen20github_{PyTorchNeRF},
@@ -11,7 +11,7 @@
 }
 ```
 
-* [Knowledge_NeRF](https://github.com/RussRobin/Knowledge_NeRF/tree/main) – the projection module for handling dynamically articulated objects was used
+**2.** [Knowledge_NeRF](https://github.com/RussRobin/Knowledge_NeRF/tree/main) – the projection module for handling dynamically articulated objects was used
 ```bibtex
 @article{cai2024knowledge,
   title={Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects},
@@ -22,3 +22,5 @@
 ```
 
 [LICENSE](https://github.com/mverbytska/Enhanced-Post-Processing-for-Knowledge-NeRF/blob/main/LICENSE) file
+
+Additionally, thanks to **Wenxiao Cai**, the author of **2.** for providing the synthetic data used for Knowledge NeRF implementation
